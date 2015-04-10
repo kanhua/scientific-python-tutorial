@@ -8,10 +8,9 @@ We suggest the beginner to download the entire scientific python distribution fr
 
 For python programming fundamentals, here are some good sources to start:
 
-[Programming Foundations with Python](https://www.udacity.com/course/ud036) on Udacity
-[Free interactive python course](http://www.codecademy.com/tracks/python) on CodeAcademy
-[Google's python tutorial](https://developers.google.com/edu/python/)
-
-and more.
+- [Programming Foundations with Python](https://www.udacity.com/course/ud036) on Udacity
+- [Free interactive python course](http://www.codecademy.com/tracks/python) on CodeAcademy
+- [Google's python tutorial](https://developers.google.com/edu/python/)
+- ... and more.
 
 
