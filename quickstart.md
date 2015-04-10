@@ -1,4 +1,4 @@
-# Quick start your adventure of scientific computing in python
+# Start your adventure of scientific computing in python
 
 ### What is python?
 
@@ -19,7 +19,7 @@ More information of these packages can be found in their official websites.
 [Showcases](https://www.python.org/about/success/#scientific) shows what you can do with python in scientific research.
 
 
-### Where can I download?
+### Where can I download python and other packages?
 
 Although you can download the python language itself and the packages one by one from each website, but it's a very lengthy and tiresome work for beginners. 
 
@@ -48,8 +48,7 @@ For more instructuctions on how to use these software, I suggest you click on No
 
 Alternatively, you can press "Launch" of ipython notebook to play with.
 
-
-
+This [quick start guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf) provided by Anacoda may be a good source for you to start.
 
 
 
